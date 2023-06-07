@@ -1,3 +1,5 @@
+#pip install tk
+
 import tkinter
 #tkinter._test()
 
